@@ -12,7 +12,7 @@ namespace GitTest_GoodbyeWorld_JKN01
         {
             Console.WriteLine("Goodbye World test of Github"); // this is a comment
 
-            Console.ReadKey();
+            Console.ReadKey();//extra comment
         }
     }
 }
